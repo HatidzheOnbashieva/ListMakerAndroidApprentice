@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HatidzheOnbashieva/AndroidStudioProjects/ListMaker/app/src/main/res/layout-xlarge/main_activity.xml" value="0.23394808743169399" />
+        <entry key="..\:/Users/HatidzheOnbashieva/AndroidStudioProjects/ListMaker/app/src/main/res/layout/list_detail_activity.xml" value="0.31023550724637683" />
+        <entry key="..\:/Users/HatidzheOnbashieva/AndroidStudioProjects/ListMaker/app/src/main/res/layout/list_detail_fragment.xml" value="0.31023550724637683" />
+        <entry key="..\:/Users/HatidzheOnbashieva/AndroidStudioProjects/ListMaker/app/src/main/res/layout/list_item_view_holder.xml" value="0.23072916666666668" />
         <entry key="..\:/Users/HatidzheOnbashieva/AndroidStudioProjects/ListMaker/app/src/main/res/layout/list_selection_view_holder.xml" value="0.31657608695652173" />
         <entry key="..\:/Users/HatidzheOnbashieva/AndroidStudioProjects/ListMaker/app/src/main/res/layout/main_activity.xml" value="0.23072916666666668" />
         <entry key="..\:/Users/HatidzheOnbashieva/AndroidStudioProjects/ListMaker/app/src/main/res/layout/main_fragment.xml" value="0.31657608695652173" />
